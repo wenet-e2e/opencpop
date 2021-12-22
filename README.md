@@ -1,9 +1,9 @@
-# WeSing?
+# WeSing
 
 [**Official website**](https://wenet-e2e.github.io/wesing/)
 | [**Paper(TODO)**]()
 
-## What is WeSing
+## What is WeSing?
 
 WeSing is a pupublicly available high-quality Mandarin singing corpus, which is designed for singing voice synthesis (SVS) systems. The corpus consists of 100 unique Mandarin songs, which was recorded by a professional female singer. The audio files were recorded with studio-quality at a sampling rate of 44100 Hz in a professional recording studio environment.
 
