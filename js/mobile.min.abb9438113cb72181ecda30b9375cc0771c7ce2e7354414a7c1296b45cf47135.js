@@ -1,0 +1,1 @@
+(function(a){'use strict';if(window.matchMedia&&a('.mobile-nav').length){var b=window.matchMedia('(max-width: 999px)');b.matches&&(a('.mobile-nav__cover, .mobile-nav__toggle').handle('click',function(){a('body').scroll().toggleClass('js-nav-open')}),a('.mobile-nav__sheet').find('a').on('click',function(){a('body').removeClass('js-nav-open')}))}})(u)

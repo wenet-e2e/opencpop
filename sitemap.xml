@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://wenet-e2e.github.io/wesing/resources/annotationformat/</loc>
+  </url><url>
+    <loc>https://wenet-e2e.github.io/wesing/categories/</loc>
+  </url><url>
+    <loc>https://wenet-e2e.github.io/wesing/contributors/</loc>
+  </url><url>
+    <loc>https://wenet-e2e.github.io/wesing/download/</loc>
+  </url><url>
+    <loc>https://wenet-e2e.github.io/wesing/liscense/</loc>
+  </url><url>
+    <loc>https://wenet-e2e.github.io/wesing/others/</loc>
+  </url><url>
+    <loc>https://wenet-e2e.github.io/wesing/resources/</loc>
+  </url><url>
+    <loc>https://wenet-e2e.github.io/wesing/resources/songlist/</loc>
+  </url><url>
+    <loc>https://wenet-e2e.github.io/wesing/resources/statisticalinformation/</loc>
+  </url><url>
+    <loc>https://wenet-e2e.github.io/wesing/tags/</loc>
+  </url><url>
+    <loc>https://wenet-e2e.github.io/wesing/resources/testset/</loc>
+  </url><url>
+    <loc>https://wenet-e2e.github.io/wesing/</loc>
+  </url>
+</urlset>

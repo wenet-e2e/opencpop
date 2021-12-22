@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on WeSing</title>
+    <link>https://wenet-e2e.github.io/wesing/resources/</link>
+    <description>Recent content in Resources on WeSing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <atom:link href="https://wenet-e2e.github.io/wesing/resources/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Annotation Format</title>
+      <link>https://wenet-e2e.github.io/wesing/resources/annotationformat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://wenet-e2e.github.io/wesing/resources/annotationformat/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;There are there folders in the corpus, &amp;lsquo;midis&amp;rsquo;, &amp;lsquo;wavs&amp;rsquo;, &amp;lsquo;textgrids&amp;rsquo;.&lt;/li&gt;
+&lt;li&gt;MIDI is labeled according to human voice.
+
+&lt;figure class=&#34;image left&#34;&gt;
+&lt;img src=&#34;https://wenet-e2e.github.io/wesing/wesing/images/filetree.png&#34;&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;TextGrid file contains boundary informations.
+
+&lt;figure class=&#34;image left&#34;&gt;
+&lt;img src=&#34;https://wenet-e2e.github.io/wesing/wesing/images/textgrid.png&#34;&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Song List</title>
+      <link>https://wenet-e2e.github.io/wesing/resources/songlist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://wenet-e2e.github.io/wesing/resources/songlist/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Song Id&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Song Name&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Time Signature&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;BPM&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;001&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;光年之外&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;88&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;002&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;穷极一生到不了的天堂&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;83&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;003&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;无人之岛&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;70&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;004&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;半句再见&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;73&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;005&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;下一秒&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;3/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;117&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;006&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;我敢&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;70&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;007&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;我怀念的&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;65&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;008&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;漂洋过海来看你&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;61&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;009&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;如果你也听说&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;58&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;010&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;飞鸟和蝉&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;74&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;011&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;嘉宾&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;75&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;012&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;岁月神偷&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;60&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;013&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;走马&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;70&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;014&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;后来&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;75&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;015&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;绿色&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;61&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;016&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;画&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;100&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;017&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;繁华梦&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;58&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;018&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;那些年&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;75&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;019&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;白芍花开&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;60&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;020&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;默&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;70&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;021&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;紫&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;78&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;022&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;日不落&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;128&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;023&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;告白气球&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;90&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;024&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;下个路口见&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;98&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;025&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;宁夏&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;83&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;026&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;安静&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;72&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;027&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;时间煮雨&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;85&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;028&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;勇气&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;58&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;029&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;大鱼&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;70&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;030&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;亲爱的旅人啊&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;110&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;031&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;像风一样&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;56&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;032&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;永不失联的爱&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;84&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;033&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;尘埃&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;66&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;034&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;不能说的秘密&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;72&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;035&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;那个男人&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;70&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;036&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;心墙&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;63&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;037&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;搁浅&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;61&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;038&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;愿得一心人&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;63&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;039&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;夏天的风&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;58&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;040&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;像鱼&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;70&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;041&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;银河与星斗&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;81&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;042&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;独家记忆&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;40&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;043&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;说爱你&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;102&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;044&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;给我一首歌的时间&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;59&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;045&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;分手快乐&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;72&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;046&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;学猫叫&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;116&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;047&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;暖暖&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;104&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;048&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;体面&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;85&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;049&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;蒲公英的约定&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;68&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;050&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;雪落下的声音&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;86&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;051&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;梦一场&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;44&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;052&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;她说&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;82&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;053&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;斑马斑马&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;67&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;054&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;玫瑰&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;65&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;055&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;遇见&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;90&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;056&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;空空如也&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;78&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;057&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;和你一样&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;84&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;058&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;再不疯狂我们就老了&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;88&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;059&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;可惜不是你&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;72&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;060&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;外面的世界&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;75&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;061&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;阴天&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;66&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;062&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;杀破狼&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;72&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;063&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;画心&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;70&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;064&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;淋雨一直走&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;94&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;065&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;亲爱的那不是爱情&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;75&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;066&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;世界那么大还是遇见你&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;70&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;067&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;最长的电影&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;60.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;068&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;千千万万&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;60&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;069&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;房间&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;65&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;070&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;你笑起来真好看&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;84&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;071&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;红颜旧&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;75&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;072&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;时光背面的我&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;89&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;073&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;红尘客栈&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;45&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;074&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;借口&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;65.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;075&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;芒种&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;100&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;076&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;匆匆那年&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;3/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;128&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;077&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;七里香&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;71&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;078&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;月满景山&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;84&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;079&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;今天你要嫁给我&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;91&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;080&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;易燃易爆炸&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;57.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;081&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;天外来物&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;68&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;082&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;演员&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;82&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;083&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;等你下课&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;74&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;084&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;星晴&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;89&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;085&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;左边&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;56&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;086&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;青春修炼手册&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;130&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;087&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;晴天&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;68.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;088&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;明明就&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;56.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;089&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;一路向北&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;67&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;090&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;爱&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;73&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;091&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;青花瓷&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;54&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;092&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;听见下雨的声音&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;86&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;093&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;小酒窝&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;47.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;094&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;十年&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;62&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;095&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;终于等到你&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;66&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;096&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;背对背拥抱&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;65&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;097&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;致青春&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;3/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;106&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;098&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;修炼爱情&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;67.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;099&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;那些你很冒险的梦&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;68&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;100&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;醒来&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4/4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;64&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statistical Information</title>
+      <link>https://wenet-e2e.github.io/wesing/resources/statisticalinformation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://wenet-e2e.github.io/wesing/resources/statisticalinformation/</guid>
+      <description>&lt;h2 id=&#34;pitch-distribution&#34;&gt;Pitch distribution&lt;/h2&gt;
+
+&lt;figure class=&#34;image center&#34;&gt;
+&lt;img src=&#34;https://wenet-e2e.github.io/wesing/wesing/images/pitch_distribution.png&#34;&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;phoneme-set&#34;&gt;Phoneme Set&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;#Phone  #Number of samples
+SP	7734
+i	5354
+AP	4495
+e	3560
+d	3383
+y	3360
+w	2267
+sh	2266
+n	2024
+ai	2011
+x	1920
+j	1850
+u	1701
+l	1697
+h	1679
+ian	1655
+b	1631
+o	1539
+zh	1504
+m	1449
+ou	1414
+an	1390
+q	1256
+z	1247
+g	1198
+en	1145
+ing	1144
+ei	1097
+ao	1089
+uo	1075
+ang	1065
+eng	1033
+t	1010
+ong	986
+a	906
+ui	791
+k	738
+f	737
+r	717
+ch	684
+iang	671
+v	629
+in	592
+iao	518
+iu	477
+ie	471
+c	467
+s	431
+p	374
+van	363
+uan	322
+ve	302
+uang	243
+ia	217
+ua	192
+uai	143
+un	127
+er	97
+vn	86
+iong	25&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Test Set</title>
+      <link>https://wenet-e2e.github.io/wesing/resources/testset/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://wenet-e2e.github.io/wesing/resources/testset/</guid>
+      <description>&lt;h2 id=&#34;baseline-resultfastspeechhifigan-22050hz&#34;&gt;Baseline Result(Fastspeech+HifiGAN, 22050Hz)&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Song Id&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Baseline Wavs&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2044&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;figure &gt;
+&lt;audio controls preload=&#34;metadata&#34;&gt;
+&lt;source src=&#34;https://wenet-e2e.github.io/wesing/wesing/audio/inference_hifigan_36.wav&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;/audio&gt;
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2086&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;figure &gt;
+&lt;audio controls preload=&#34;metadata&#34;&gt;
+&lt;source src=&#34;https://wenet-e2e.github.io/wesing/wesing/audio/inference_hifigan_36.wav&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;/audio&gt;
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2092&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;figure &gt;
+&lt;audio controls preload=&#34;metadata&#34;&gt;
+&lt;source src=&#34;https://wenet-e2e.github.io/wesing/wesing/audio/inference_hifigan_36.wav&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;/audio&gt;
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2093&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;figure &gt;
+&lt;audio controls preload=&#34;metadata&#34;&gt;
+&lt;source src=&#34;https://wenet-e2e.github.io/wesing/wesing/audio/inference_hifigan_36.wav&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;/audio&gt;
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2100&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;figure &gt;
+&lt;audio controls preload=&#34;metadata&#34;&gt;
+&lt;source src=&#34;https://wenet-e2e.github.io/wesing/wesing/audio/inference_hifigan_36.wav&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;/audio&gt;
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
