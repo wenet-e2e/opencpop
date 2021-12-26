@@ -14,6 +14,6 @@ The human voice is one of the most beautiful instruments. Let’s create usable 
 
 ## Download
 
-The database is undergoing final processing and will be <font color=#008000 size=5>coming soon</font>. Stay tuned to this project or to the [official website](https://wenet-e2e.github.io/wesing/) for the latest updates. Thank you!
+The database is undergoing final processing and will be **coming soon**. Stay tuned to this project or to the [official website](https://wenet-e2e.github.io/wesing/) for the latest updates. Thank you!
 
 
