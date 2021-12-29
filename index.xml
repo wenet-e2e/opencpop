@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>WeSing</title>
-    <link>https://wenet-e2e.github.io/wesing/</link>
-    <description>Recent content on WeSing</description>
+    <title>Opencpop</title>
+    <link>https://wenet-e2e.github.io/opencpop/</link>
+    <description>Recent content on Opencpop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <atom:link href="https://wenet-e2e.github.io/wesing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wenet-e2e.github.io/opencpop/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Annotation Format</title>
-      <link>https://wenet-e2e.github.io/wesing/resources/annotationformat/</link>
+      <link>https://wenet-e2e.github.io/opencpop/resources/annotationformat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://wenet-e2e.github.io/wesing/resources/annotationformat/</guid>
+      <guid>https://wenet-e2e.github.io/opencpop/resources/annotationformat/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;There are there folders in the corpus, &amp;lsquo;midis&amp;rsquo;, &amp;lsquo;wavs&amp;rsquo;, &amp;lsquo;textgrids&amp;rsquo;.&lt;/li&gt;
 &lt;li&gt;MIDI is labeled according to human voice.
 
 &lt;figure class=&#34;image left&#34;&gt;
-&lt;img src=&#34;https://wenet-e2e.github.io/wesing/wesing/images/filetree.png&#34;&gt;
+&lt;img src=&#34;https://wenet-e2e.github.io/opencpop/opencpop/images/filetree.png&#34;&gt;
 &lt;/figure&gt;
 &lt;/li&gt;
 &lt;li&gt;TextGrid file contains boundary informations.
 
 &lt;figure class=&#34;image left&#34;&gt;
-&lt;img src=&#34;https://wenet-e2e.github.io/wesing/wesing/images/textgrid.png&#34;&gt;
+&lt;img src=&#34;https://wenet-e2e.github.io/opencpop/opencpop/images/textgrid.png&#34;&gt;
 &lt;/figure&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -33,11 +33,11 @@
     
     <item>
       <title>Contributors</title>
-      <link>https://wenet-e2e.github.io/wesing/contributors/</link>
+      <link>https://wenet-e2e.github.io/opencpop/contributors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://wenet-e2e.github.io/wesing/contributors/</guid>
+      <guid>https://wenet-e2e.github.io/opencpop/contributors/</guid>
       <description>&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
-&lt;p&gt;This page aims to collect WeSing-related publications.&lt;/p&gt;
+&lt;p&gt;This page aims to collect Opencpop-related publications.&lt;/p&gt;
 &lt;h2 id=&#34;sponsor&#34;&gt;Sponsor&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -78,7 +78,7 @@
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;
 &lt;figure class=&#34;image right&#34;&gt;
-&lt;img src=&#34;https://wenet-e2e.github.io/wesing/wesing/images/sponsor.png&#34;&gt;
+&lt;img src=&#34;https://wenet-e2e.github.io/opencpop/opencpop/images/sponsor.png&#34;&gt;
 &lt;/figure&gt;
 &lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
@@ -101,21 +101,21 @@
     
     <item>
       <title>Download</title>
-      <link>https://wenet-e2e.github.io/wesing/download/</link>
+      <link>https://wenet-e2e.github.io/opencpop/download/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://wenet-e2e.github.io/wesing/download/</guid>
-      <description>&lt;h2 id=&#34;wesing-data-will-be-open-sourced-in-january-2022&#34;&gt;WeSing data will be open sourced in January, 2022.&lt;/h2&gt;
+      <guid>https://wenet-e2e.github.io/opencpop/download/</guid>
+      <description>&lt;h2 id=&#34;opencpop-data-will-be-open-sourced-in-january-2022&#34;&gt;Opencpop data will be open sourced in January, 2022.&lt;/h2&gt;
 </description>
     </item>
     
     <item>
       <title>Liscense</title>
-      <link>https://wenet-e2e.github.io/wesing/liscense/</link>
+      <link>https://wenet-e2e.github.io/opencpop/liscense/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://wenet-e2e.github.io/wesing/liscense/</guid>
+      <guid>https://wenet-e2e.github.io/opencpop/liscense/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;The WeSing dataset is available to download for non-commercial purposes under a &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;Creative Commons Attribution 4.0 International License&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;The corpus copyright remains with the original owners of WeSing Team.&lt;/li&gt;
+&lt;li&gt;The Opencpop dataset is available to download for non-commercial purposes under a &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;Creative Commons Attribution 4.0 International License&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;The corpus copyright remains with the original owners of Opencpop Team.&lt;/li&gt;
 &lt;li&gt;If want to use it commercially, you are welcome to contact us by email(&lt;a href=&#34;mailto:zpcoftts@gmail.com&#34;&gt;zpcoftts@gmail.com&lt;/a&gt;).&lt;/li&gt;
 &lt;li&gt;Please use in accordance with Chinese and international laws.&lt;/li&gt;
 &lt;/ul&gt;
@@ -124,23 +124,23 @@
     
     <item>
       <title>Others</title>
-      <link>https://wenet-e2e.github.io/wesing/others/</link>
+      <link>https://wenet-e2e.github.io/opencpop/others/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://wenet-e2e.github.io/wesing/others/</guid>
+      <guid>https://wenet-e2e.github.io/opencpop/others/</guid>
       <description>&lt;h2 id=&#34;working-process&#34;&gt;working process&lt;/h2&gt;
 &lt;p&gt;
 &lt;figure class=&#34;image right&#34;&gt;
-&lt;img src=&#34;https://wenet-e2e.github.io/wesing/wesing/images/singing.JPG&#34;&gt;
+&lt;img src=&#34;https://wenet-e2e.github.io/opencpop/opencpop/images/singing.JPG&#34;&gt;
 &lt;/figure&gt;
 
 
 &lt;figure class=&#34;image right&#34;&gt;
-&lt;img src=&#34;https://wenet-e2e.github.io/wesing/wesing/images/jianting.JPG&#34;&gt;
+&lt;img src=&#34;https://wenet-e2e.github.io/opencpop/opencpop/images/jianting.JPG&#34;&gt;
 &lt;/figure&gt;
 
 
 &lt;figure class=&#34;image right&#34;&gt;
-&lt;img src=&#34;https://wenet-e2e.github.io/wesing/wesing/images/annotation.png&#34;&gt;
+&lt;img src=&#34;https://wenet-e2e.github.io/opencpop/opencpop/images/annotation.png&#34;&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
 </description>
@@ -148,9 +148,9 @@
     
     <item>
       <title>Song List</title>
-      <link>https://wenet-e2e.github.io/wesing/resources/songlist/</link>
+      <link>https://wenet-e2e.github.io/opencpop/resources/songlist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://wenet-e2e.github.io/wesing/resources/songlist/</guid>
+      <guid>https://wenet-e2e.github.io/opencpop/resources/songlist/</guid>
       <description>&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -768,13 +768,13 @@
     
     <item>
       <title>Statistical Information</title>
-      <link>https://wenet-e2e.github.io/wesing/resources/statisticalinformation/</link>
+      <link>https://wenet-e2e.github.io/opencpop/resources/statisticalinformation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://wenet-e2e.github.io/wesing/resources/statisticalinformation/</guid>
+      <guid>https://wenet-e2e.github.io/opencpop/resources/statisticalinformation/</guid>
       <description>&lt;h2 id=&#34;pitch-distribution&#34;&gt;Pitch distribution&lt;/h2&gt;
 
 &lt;figure class=&#34;image center&#34;&gt;
-&lt;img src=&#34;https://wenet-e2e.github.io/wesing/wesing/images/pitch_distribution.png&#34;&gt;
+&lt;img src=&#34;https://wenet-e2e.github.io/opencpop/opencpop/images/pitch_distribution.png&#34;&gt;
 &lt;/figure&gt;
 
 &lt;h2 id=&#34;phoneme-set&#34;&gt;Phoneme Set&lt;/h2&gt;
@@ -844,9 +844,9 @@ iong	25&lt;/code&gt;&lt;/pre&gt;
     
     <item>
       <title>Test Set</title>
-      <link>https://wenet-e2e.github.io/wesing/resources/testset/</link>
+      <link>https://wenet-e2e.github.io/opencpop/resources/testset/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://wenet-e2e.github.io/wesing/resources/testset/</guid>
+      <guid>https://wenet-e2e.github.io/opencpop/resources/testset/</guid>
       <description>&lt;h2 id=&#34;baseline-resultfastspeechhifigan-22050hz&#34;&gt;Baseline Result(Fastspeech+HifiGAN, 22050Hz)&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -860,7 +860,7 @@ iong	25&lt;/code&gt;&lt;/pre&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2044&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;figure &gt;
 &lt;audio controls preload=&#34;metadata&#34;&gt;
-&lt;source src=&#34;https://wenet-e2e.github.io/wesing/wesing/audio/inference_hifigan_36.wav&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;source src=&#34;https://wenet-e2e.github.io/opencpop/opencpop/audio/inference_hifigan_36.wav&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;/figure&gt;
@@ -870,7 +870,7 @@ iong	25&lt;/code&gt;&lt;/pre&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2086&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;figure &gt;
 &lt;audio controls preload=&#34;metadata&#34;&gt;
-&lt;source src=&#34;https://wenet-e2e.github.io/wesing/wesing/audio/inference_hifigan_36.wav&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;source src=&#34;https://wenet-e2e.github.io/opencpop/opencpop/audio/inference_hifigan_36.wav&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;/figure&gt;
@@ -880,7 +880,7 @@ iong	25&lt;/code&gt;&lt;/pre&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2092&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;figure &gt;
 &lt;audio controls preload=&#34;metadata&#34;&gt;
-&lt;source src=&#34;https://wenet-e2e.github.io/wesing/wesing/audio/inference_hifigan_36.wav&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;source src=&#34;https://wenet-e2e.github.io/opencpop/opencpop/audio/inference_hifigan_36.wav&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;/figure&gt;
@@ -890,7 +890,7 @@ iong	25&lt;/code&gt;&lt;/pre&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2093&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;figure &gt;
 &lt;audio controls preload=&#34;metadata&#34;&gt;
-&lt;source src=&#34;https://wenet-e2e.github.io/wesing/wesing/audio/inference_hifigan_36.wav&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;source src=&#34;https://wenet-e2e.github.io/opencpop/opencpop/audio/inference_hifigan_36.wav&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;/figure&gt;
@@ -900,7 +900,7 @@ iong	25&lt;/code&gt;&lt;/pre&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2100&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;figure &gt;
 &lt;audio controls preload=&#34;metadata&#34;&gt;
-&lt;source src=&#34;https://wenet-e2e.github.io/wesing/wesing/audio/inference_hifigan_36.wav&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;source src=&#34;https://wenet-e2e.github.io/opencpop/opencpop/audio/inference_hifigan_36.wav&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;/figure&gt;

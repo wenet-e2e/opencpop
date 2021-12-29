@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wenet-e2e.github.io/wesing/resources/annotationformat/</loc>
+    <loc>https://wenet-e2e.github.io/opencpop/resources/annotationformat/</loc>
   </url><url>
-    <loc>https://wenet-e2e.github.io/wesing/categories/</loc>
+    <loc>https://wenet-e2e.github.io/opencpop/categories/</loc>
   </url><url>
-    <loc>https://wenet-e2e.github.io/wesing/contributors/</loc>
+    <loc>https://wenet-e2e.github.io/opencpop/contributors/</loc>
   </url><url>
-    <loc>https://wenet-e2e.github.io/wesing/download/</loc>
+    <loc>https://wenet-e2e.github.io/opencpop/download/</loc>
   </url><url>
-    <loc>https://wenet-e2e.github.io/wesing/liscense/</loc>
+    <loc>https://wenet-e2e.github.io/opencpop/liscense/</loc>
   </url><url>
-    <loc>https://wenet-e2e.github.io/wesing/others/</loc>
+    <loc>https://wenet-e2e.github.io/opencpop/others/</loc>
   </url><url>
-    <loc>https://wenet-e2e.github.io/wesing/resources/</loc>
+    <loc>https://wenet-e2e.github.io/opencpop/resources/</loc>
   </url><url>
-    <loc>https://wenet-e2e.github.io/wesing/resources/songlist/</loc>
+    <loc>https://wenet-e2e.github.io/opencpop/resources/songlist/</loc>
   </url><url>
-    <loc>https://wenet-e2e.github.io/wesing/resources/statisticalinformation/</loc>
+    <loc>https://wenet-e2e.github.io/opencpop/resources/statisticalinformation/</loc>
   </url><url>
-    <loc>https://wenet-e2e.github.io/wesing/tags/</loc>
+    <loc>https://wenet-e2e.github.io/opencpop/tags/</loc>
   </url><url>
-    <loc>https://wenet-e2e.github.io/wesing/resources/testset/</loc>
+    <loc>https://wenet-e2e.github.io/opencpop/resources/testset/</loc>
   </url><url>
-    <loc>https://wenet-e2e.github.io/wesing/</loc>
+    <loc>https://wenet-e2e.github.io/opencpop/</loc>
   </url>
 </urlset>
