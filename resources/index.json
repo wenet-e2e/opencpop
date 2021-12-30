@@ -5,8 +5,8 @@
     "home_page_url": "https://wenet-e2e.github.io/opencpop/",
     "feed_url": "https://wenet-e2e.github.io/opencpop/resources/index.json",
     "language": "en-GB",
-    "icon": "https://wenet-e2e.github.io/opencpop/apple-touch-icon.png",
-    "favicon": "https://wenet-e2e.github.io/opencpop/apple-touch-icon.png",
+    "icon": "https://wenet-e2e.github.io/opencpop/apple-icon.png",
+    "favicon": "https://wenet-e2e.github.io/opencpop/apple-icon.png",
     "authors": [
         {
             "name": "Pengchengzhu",
