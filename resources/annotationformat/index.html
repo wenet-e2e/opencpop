@@ -3,14 +3,14 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
-<title>Annotation Format – Opencpop</title>
-<meta name="description" content=" There are there folders in the corpus, &amp;amp;lsquo;midis&amp;amp;rsquo;, &amp;amp;lsquo;wavs&amp;amp;rsquo;, &amp;amp;lsquo;textgrids&amp;amp;rsquo;. MIDI is labeled according to human voice.   TextGrid file …">
+<title>Formats – opencpop</title>
+<meta name="description" content="File Format  midis: midi files, MIDI is labels according to human voice. textgrids: Raw label files, You can open it using praat or python. wavs: Raw audio wav files. …">
 <meta name="created" content="0001-01-01T00:00:00+0000">
 <meta name="modified" content="0001-01-01T00:00:00+0000">
-<meta name="author" content="Opencpop Team">
+<meta name="author" content="opencpop Team">
 <meta name="contact" content="zpcoftts@gmail.com">
-<meta property="og:site_name" content="Opencpop">
-<meta property="og:title" content="Annotation Format">
+<meta property="og:site_name" content="opencpop">
+<meta property="og:title" content="Formats">
 <meta property="og:url" content="https://wenet-e2e.github.io/opencpop/resources/annotationformat/">
 <meta property="og:type" content="article">
 <meta property="og:image" content="https://wenet-e2e.github.io/opencpop/apple-touch-icon.png">
@@ -30,15 +30,15 @@
   {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    "headline": "Annotation Format",
+    "headline": "Formats",
     "datePublished": "0001-01-01T00:00:00Z",
     "dateModified": "0001-01-01T00:00:00Z",
     "url" : "https://wenet-e2e.github.io/opencpop/resources/annotationformat/",
-    "description": " There are there folders in the corpus, \u0026amp;lsquo;midis\u0026amp;rsquo;, \u0026amp;lsquo;wavs\u0026amp;rsquo;, \u0026amp;lsquo;textgrids\u0026amp;rsquo;. MIDI is labeled according to human voice.   TextGrid file …",
+    "description": "File Format  midis: midi files, MIDI is labels according to human voice. textgrids: Raw label files, You can open it using praat or python. wavs: Raw audio wav files. …",
     "image" : "https://wenet-e2e.github.io/opencpop/apple-touch-icon.png",
     "author": {
       "@type": "Person",
-      "name": "Opencpop Team"
+      "name": "opencpop Team"
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
@@ -46,7 +46,7 @@
     },
     "publisher": {
       "@type": "Organization",
-      "name": "Opencpop",
+      "name": "opencpop",
       "logo" : {
         "@type": "ImageObject",
         "url": "https://wenet-e2e.github.io/opencpop/apple-touch-icon.png"
@@ -68,7 +68,7 @@
 <div class="page layout__page layout__sidebar-second">
 <header class="header layout__header">
 <h1 class="header__site-name">
-<a href="/opencpop/" title="Home" class="header__site-link" rel="home"><span>Opencpop</span></a>
+<a href="/opencpop/" title="Home" class="header__site-link" rel="home"><span>opencpop</span></a>
 </h1>
 <div class="region header__region">
 </div>
@@ -81,7 +81,7 @@
 <li><a href="/opencpop/contributors/">Contributors</a></li>
 <li><a href="/opencpop/download/">Download</a></li>
 <li><a href="/opencpop/liscense/">Liscense</a></li>
-<li><a href="/opencpop/others/">Others</a></li>
+<li><a href="/opencpop/others/">Other information</a></li>
 <li><a href="/opencpop/resources/" class="active" aria-current="page">Resources</a></li>
 </ul>
 </nav>
@@ -90,27 +90,464 @@
 <main class="main layout__main">
 <article class="section-resources single-view">
 <header>
-<h1 class="title title-submitted">Annotation Format</h1>
+<h1 class="title title-submitted">Formats</h1>
 <div class="submitted">
-<span class="author" itemprop="author">Opencpop Team</span>
+<span class="author" itemprop="author">opencpop Team</span>
 </div>
 </header>
 <div class="content">
+<h1 id="file-format">File Format</h1>
 <ul>
-<li>There are there folders in the corpus, &lsquo;midis&rsquo;, &lsquo;wavs&rsquo;, &lsquo;textgrids&rsquo;.</li>
-<li>MIDI is labeled according to human voice.
-
-<figure class="image left">
-<img src="/opencpop/images/filetree.png">
-</figure>
+<li>midis: <a href="https://en.wikipedia.org/wiki/MIDI">midi</a> files, MIDI is labels according to human voice.</li>
+<li>textgrids: Raw label files, You can open it using <a href="https://www.fon.hum.uva.nl/praat/">praat</a> or <a href="https://github.com/kylebgorman/textgrid">python</a>.</li>
+<li>wavs: Raw audio wav files.</li>
+<li>segments:
+<ul>
+<li>wavs: utterance level wavs.</li>
+<li>transcriptions.txt: utterance level labels.</li>
+<li>train.txt: train set labels.</li>
+<li>test.txt: test set labels.</li>
+</ul>
 </li>
-<li>TextGrid file contains boundary informations.
+<li>Label Format(split with &lsquo;|'):
+<ul>
+<li>utterance wav name</li>
+<li>text</li>
+<li>phoneme</li>
+<li>note</li>
+<li>note duration</li>
+<li>phoneme duration</li>
+<li>whether the current note is a slur note, 0 no, 1 yes.</li>
+</ul>
+</li>
+<li>TextGrid file example.
 
 <figure class="image left">
-<img src="/opencpop/images/textgrid.png">
+<img src="/opencpop/images/format.png">
 </figure>
 </li>
 </ul>
+<h1 id="pinyin-to-phoneme-mapping-table">pinyin to phoneme mapping table</h1>
+<pre><code>pinyin| phonemes
+---|---
+a|a
+ai|ai
+an|an
+ang|ang
+ao|ao
+ba|b a
+bai|b ai
+ban|b an
+bang|b ang
+bao|b ao
+bei|b ei
+ben|b en
+beng|b eng
+bi|b i
+bian|b ian
+biao|b iao
+bie|b ie
+bin|b in
+bing|b ing
+bo|b o
+bu|b u
+ca|c a
+cai|c ai
+can|c an
+cang|c ang
+cao|c ao
+ce|c e
+cei|c ei
+cen|c en
+ceng|c eng
+cha|ch a
+chai|ch ai
+chan|ch an
+chang|ch ang
+chao|ch ao
+che|ch e
+chen|ch en
+cheng|ch eng
+chi|ch i
+chong|ch ong
+chou|ch ou
+chu|ch u
+chua|ch ua
+chuai|ch uai
+chuan|ch uan
+chuang|ch uang
+chui|ch ui
+chun|ch un
+chuo|ch uo
+ci|c i
+cong|c ong
+cou|c ou
+cu|c u
+cuan|c uan
+cui|c ui
+cun|c un
+cuo|c uo
+da|d a
+dai|d ai
+dan|d an
+dang|d ang
+dao|d ao
+de|d e
+dei|d ei
+den|d en
+deng|d eng
+di|d i
+dia|d ia
+dian|d ian
+diao|d iao
+die|d ie
+ding|d ing
+diu|d iu
+dong|d ong
+dou|d ou
+du|d u
+duan|d uan
+dui|d ui
+dun|d un
+duo|d uo
+e|e
+ei|ei
+en|en
+eng|eng
+er|er
+fa|f a
+fan|f an
+fang|f ang
+fei|f ei
+fen|f en
+feng|f eng
+fo|f o
+fou|f ou
+fu|f u
+ga|g a
+gai|g ai
+gan|g an
+gang|g ang
+gao|g ao
+ge|g e
+gei|g ei
+gen|g en
+geng|g eng
+gong|g ong
+gou|g ou
+gu|g u
+gua|g ua
+guai|g uai
+guan|g uan
+guang|g uang
+gui|g ui
+gun|g un
+guo|g uo
+ha|h a
+hai|h ai
+han|h an
+hang|h ang
+hao|h ao
+he|h e
+hei|h ei
+hen|h en
+heng|h eng
+hm|h m
+hng|h ng
+hong|h ong
+hou|h ou
+hu|h u
+hua|h ua
+huai|h uai
+huan|h uan
+huang|h uang
+hui|h ui
+hun|h un
+huo|h uo
+ji|j i
+jia|j ia
+jian|j ian
+jiang|j iang
+jiao|j iao
+jie|j ie
+jin|j in
+jing|j ing
+jiong|j iong
+jiu|j iu
+ju|j v
+juan|j van
+jue|j ve
+jun|j vn
+ka|k a
+kai|k ai
+kan|k an
+kang|k ang
+kao|k ao
+ke|k e
+kei|k ei
+ken|k en
+keng|k eng
+kong|k ong
+kou|k ou
+ku|k u
+kua|k ua
+kuai|k uai
+kuan|k uan
+kuang|k uang
+kui|k ui
+kun|k un
+kuo|k uo
+la|l a
+lai|l ai
+lan|l an
+lang|l ang
+lao|l ao
+le|l e
+lei|l ei
+leng|l eng
+li|l i
+lia|l ia
+lian|l ian
+liang|l iang
+liao|l iao
+lie|l ie
+lin|l in
+ling|l ing
+liu|l iu
+lo|l o
+long|l ong
+lou|l ou
+lu|l u
+luan|l uan
+lun|l un
+luo|l uo
+lv|l v
+lve|l ve
+m|m
+ma|m a
+mai|m ai
+man|m an
+mang|m ang
+mao|m ao
+me|m e
+mei|m ei
+men|m en
+meng|m eng
+mi|m i
+mian|m ian
+miao|m iao
+mie|m ie
+min|m in
+ming|m ing
+miu|m iu
+mo|m o
+mou|m ou
+mu|m u
+n|n
+na|n a
+nai|n ai
+nan|n an
+nang|n ang
+nao|n ao
+ne|n e
+nei|n ei
+nen|n en
+neng|n eng
+ng|n g
+ni|n i
+nian|n ian
+niang|n iang
+niao|n iao
+nie|n ie
+nin|n in
+ning|n ing
+niu|n iu
+nong|n ong
+nou|n ou
+nu|n u
+nuan|n uan
+nun|n un
+nuo|n uo
+nv|n v
+nve|n ve
+o|o
+ou|ou
+pa|p a
+pai|p ai
+pan|p an
+pang|p ang
+pao|p ao
+pei|p ei
+pen|p en
+peng|p eng
+pi|p i
+pian|p ian
+piao|p iao
+pie|p ie
+pin|p in
+ping|p ing
+po|p o
+pou|p ou
+pu|p u
+qi|q i
+qia|q ia
+qian|q ian
+qiang|q iang
+qiao|q iao
+qie|q ie
+qin|q in
+qing|q ing
+qiong|q iong
+qiu|q iu
+qu|q v
+quan|q van
+que|q ve
+qun|q vn
+ran|r an
+rang|r ang
+rao|r ao
+re|r e
+ren|r en
+reng|r eng
+ri|r i
+rong|r ong
+rou|r ou
+ru|r u
+rua|r ua
+ruan|r uan
+rui|r ui
+run|r un
+ruo|r uo
+sa|s a
+sai|s ai
+san|s an
+sang|s ang
+sao|s ao
+se|s e
+sen|s en
+seng|s eng
+sha|sh a
+shai|sh ai
+shan|sh an
+shang|sh ang
+shao|sh ao
+she|sh e
+shei|sh ei
+shen|sh en
+sheng|sh eng
+shi|sh i
+shou|sh ou
+shu|sh u
+shua|sh ua
+shuai|sh uai
+shuan|sh uan
+shuang|sh uang
+shui|sh ui
+shun|sh un
+shuo|sh uo
+si|s i
+song|s ong
+sou|s ou
+su|s u
+suan|s uan
+sui|s ui
+sun|s un
+suo|s uo
+ta|t a
+tai|t ai
+tan|t an
+tang|t ang
+tao|t ao
+te|t e
+tei|t ei
+teng|t eng
+ti|t i
+tian|t ian
+tiao|t iao
+tie|t ie
+ting|t ing
+tong|t ong
+tou|t ou
+tu|t u
+tuan|t uan
+tui|t ui
+tun|t un
+tuo|t uo
+wa|w a
+wai|w ai
+wan|w an
+wang|w ang
+wei|w ei
+wen|w en
+weng|w eng
+wo|w o
+wu|w u
+xi|x i
+xia|x ia
+xian|x ian
+xiang|x iang
+xiao|x iao
+xie|x ie
+xin|x in
+xing|x ing
+xiong|x iong
+xiu|x iu
+xu|x v
+xuan|x van
+xue|x ve
+xun|x vn
+ya|y a
+yan|y an
+yang|y ang
+yao|y ao
+ye|y e
+yi|y i
+yin|y in
+ying|y ing
+yo|y o
+yong|y ong
+you|y ou
+yu|y v
+yuan|y van
+yue|y ve
+yun|y vn
+za|z a
+zai|z ai
+zan|z an
+zang|z ang
+zao|z ao
+ze|z e
+zei|z ei
+zen|z en
+zeng|z eng
+zha|zh a
+zhai|zh ai
+zhan|zh an
+zhang|zh ang
+zhao|zh ao
+zhe|zh e
+zhei|zh ei
+zhen|zh en
+zheng|zh eng
+zhi|zh i
+zhong|zh ong
+zhou|zh ou
+zhu|zh u
+zhua|zh ua
+zhuai|zh uai
+zhuan|zh uan
+zhuang|zh uang
+zhui|zh ui
+zhun|zh un
+zhuo|zh uo
+zi|z i
+zong|z ong
+zou|z ou
+zu|z u
+zuan|z uan
+zui|z ui
+zun|z un
+zuo|z uo</code></pre>
 
 
 </div>
@@ -122,16 +559,16 @@
 <section>
 <h4 class="menu"><a href="/opencpop/resources/" class="active" aria-current="page">Resources</a></h4>
 <ul class="menu">
-<li><a href="/opencpop/resources/annotationformat/" class="active" aria-current="page">Annotation Format</a></li>
+<li><a href="/opencpop/resources/statisticalinformation/">Distributions</a></li>
+<li><a href="/opencpop/resources/testset/">Experimental results</a></li>
+<li><a href="/opencpop/resources/annotationformat/" class="active" aria-current="page">Formats</a></li>
 <li><a href="/opencpop/resources/songlist/">Song List</a></li>
-<li><a href="/opencpop/resources/statisticalinformation/">Statistical Information</a></li>
-<li><a href="/opencpop/resources/testset/">Test Set</a></li>
 </ul>
 </section>
 </aside>
 <footer class="footer layout__footer">
 <p><!-- raw HTML omitted --></p>
-<p>Copyright © Opencpop 2022.</p>
+<p>Copyright © opencpop 2022.</p>
 
 </footer>
 </div>
@@ -149,7 +586,7 @@
     <li><a href="/opencpop/contributors/">Contributors</a></li>
     <li><a href="/opencpop/download/">Download</a></li>
     <li><a href="/opencpop/liscense/">Liscense</a></li>
-    <li><a href="/opencpop/others/">Others</a></li>
+    <li><a href="/opencpop/others/">Other information</a></li>
     <li><a href="/opencpop/resources/" class="active" aria-current="page">Resources</a></li>
     </ul>
     </nav>
