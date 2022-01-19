@@ -1,0 +1,28 @@
+table {
+    border-collapse: collapse;
+    border-spacing: 0
+}
+
+td,
+th {
+    padding: 0
+}
+
+table {
+    display: block;
+    width: 100%;
+    overflow: auto;
+    word-break: normal;
+    word-break: keep-all;
+    -webkit-overflow-scrolling: touch
+}
+
+table th {
+    font-weight: bold
+}
+
+table th,
+table td {
+    padding: 0.5rem 1rem;
+    border: 1px solid #e9ebec
+}
