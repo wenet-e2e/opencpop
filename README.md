@@ -1,6 +1,6 @@
 # Opencpop
 
-[**Official website**](https://wenet-e2e.github.io/opencpop/)
+[**Official website**](https://wenet.org.cn/opencpop/)
 | [**Paper**](https://arxiv.org/abs/2201.07429)
 
 ## What is opencpop?
@@ -14,6 +14,6 @@ The human voice is one of the most beautiful instruments. Let’s create usable 
 
 ## Download
 
-The database is undergoing final processing and will be **coming soon**. Stay tuned to this project or to the [official website](https://wenet-e2e.github.io/opencpop/) for the latest updates. Thank you!
+Download [Link](https://wenet.org.cn/opencpop/download/). Wish you can stay tuned to this project or to the [official website](https://wenet.org.cn/opencpop/) for the latest updates. Thank you!
 
 
